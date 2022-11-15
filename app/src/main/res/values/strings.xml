@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="btn_title">Start</string>
+    <string name="tv_welcome_massage">Welcome to roll Game..!</string>
+    <string name="tv_game_running">Game is running..!</string>
+    <string name="btn_reset">Restart</string>
+    <string name="tv_rolling_time_title">Rolled: 0</string>
+    <string name="tv_score">Score: 0</string>
+    <string name="tv_rules_title">Roll Game Rules</string>
+    <string name="btn_close">close</string>
+    <string name="tv_rules"># To play this game you need to press the roll button.
+        \n# You have 10 turn to score minimum 35.
+        \n# If you earn  equal or greater 35 score, only then you will win the game.
+        \n# otherwise you will loss.
+        \n# You can restart the game by clicking restart button.
+    </string>
+
+
+</resources>
